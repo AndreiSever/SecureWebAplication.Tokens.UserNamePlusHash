@@ -1,0 +1,14 @@
+create new package(name) routs(route, ...) roles(role, ... or all)
+create new role(name) for packages(package, ... or all)
+create new model(name) from table(table)
+
+add role(name) for packages(packages, ... or all)
+
+save project
+update framework
+
+install project(name)
+
+delete package(name) 
+delete role(name) for packages(package, ... or all)
+delete anyfiles
